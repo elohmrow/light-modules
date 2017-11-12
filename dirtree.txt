@@ -1,0 +1,11 @@
+.
+├── Decorators
+│   ├── decorations
+│   │   └── pages
+│   │       └── apps
+│   │           └── pages.yaml
+│   └── module.yaml
+├── dirtree.txt
+└── google-maps-magnolia -> /Users/bandersen/node_modules/google-maps-magnolia
+
+5 directories, 3 files
